@@ -1,2 +1,2 @@
-[img]https://tikalsport.github.io/assetto/AllRennn.jpg[/img]
+[img]https://raw.githubusercontent.com/TikalSport/assetto/refs/heads/main/AllRennn.jpg[/img]
 
