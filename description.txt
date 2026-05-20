@@ -1,1 +1,1 @@
-[img]https://raw.githubusercontent.com/TikalSport/assetto/refs/heads/main/AllRennn.jpg[/img]
+[img]raw.githubusercontent.com/TikalSport/assetto/refs/heads/main/AllRennn.jpg[/img]
